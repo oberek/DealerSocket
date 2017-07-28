@@ -1,0 +1,10 @@
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.deps.json
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.runtimeconfig.json
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.runtimeconfig.dev.json
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.dll
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.pdb
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.csprojResolveAssemblyReference.cache
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.AssemblyInfo.cs
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.dll
+c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.pdb
