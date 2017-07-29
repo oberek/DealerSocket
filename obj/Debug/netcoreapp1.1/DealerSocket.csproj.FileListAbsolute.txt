@@ -8,3 +8,13 @@ c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\
 c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.AssemblyInfo.cs
 c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.dll
 c:\users\maciej\documents\visual studio 2017\Projects\DealerSocket\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.pdb
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.deps.json
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.runtimeconfig.json
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.runtimeconfig.dev.json
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.dll
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\bin\Debug\netcoreapp1.1\DealerSocket.pdb
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.csprojResolveAssemblyReference.cache
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.AssemblyInfo.cs
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.dll
+C:\Users\Dani Meyer\Documents\GitHub\DealerSocket\obj\Debug\netcoreapp1.1\DealerSocket.pdb
