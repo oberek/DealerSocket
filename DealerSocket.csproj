@@ -1,13 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
-
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
-
   <PropertyGroup>
     <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
   </PropertyGroup>
-
   <PropertyGroup>
     <UserSecretsId>aspnet-DealerSocket-9bf72c25-fa96-4610-92e6-2f8ef3d53416</UserSecretsId>
   </PropertyGroup>
@@ -33,5 +30,7 @@
     <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="1.0.1" />
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
   </ItemGroup>
-
+  <ItemGroup>
+    <Folder Include="Views\Prize" />
+  </ItemGroup>
 </Project>

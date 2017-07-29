@@ -27,6 +27,11 @@ namespace DealerSocket.Controllers
             return View();
         }
 
+        public IActionResult Form()
+        {
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View();
